@@ -23,6 +23,22 @@ The following images show the final results of linear regression with first, sec
 ![fifthOrder](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/7a8c4326-bb84-4fc2-92a6-694405c4e4ad)
 
 
+And the follwing images show the output of the k-means clustering algorithm for k=2, k=3, k=10, k=25, and k=50.
+
+![2Clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/ca3d4d8f-8ff3-4a55-b72c-6eeb0bc31a58)
+
+![3Clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/3a70ea04-5691-44bf-bf3f-f1cd3f60cc3f)
+
+![10Clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/0eeb629e-5b9a-4c03-a9a7-f872a0902105)
+
+![25clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/3608feda-cd9c-40d6-b012-09b2cca0b3bb)
+
+![50Clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/aaf7af01-26a9-4349-9042-baf88229d90d)
+
+
+
+
+
 
 
 
