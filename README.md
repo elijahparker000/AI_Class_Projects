@@ -8,6 +8,7 @@ This assignment is all about using search algorithms to find a path from a start
 
 It has implementations of Depth First Search, Breadth First Search, and A* Search with two different admissable heuristics. Additionally, there are three different graphs of increasing size.
 
+
 ## Assignment 2:
 This assignment focused on implementing three different machine learning algorithms: linear regression with basis functions, naive bayes, and k-means clustering for image compression. 
 The following images show the final results of linear regression with first, second, third, fourth, and fifth order polynomial basis functions. 
@@ -34,6 +35,12 @@ And the follwing images show the output of the k-means clustering algorithm for 
 ![25clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/3608feda-cd9c-40d6-b012-09b2cca0b3bb)
 
 ![50Clusters](https://github.com/elijahparker000/AI_Class_Projects/assets/60053369/aaf7af01-26a9-4349-9042-baf88229d90d)
+
+There's not really any cool outputs for the naive bayes algorithm, and although I implemented it correctly, it didn't work very well for the example problem given.
+
+
+## Assignment 3:
+This assignment was all about convolutional neural nets and finding optimal parameters for them. We were tasked with training networks to recognize hand written digits from the MNIST dataset as well as evaluating the performance of the LeNet architecture on the CIFAR-10 dataset. See the notebook for more details.
 
 
 
